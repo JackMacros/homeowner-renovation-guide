@@ -1,0 +1,11 @@
+{
+  "label": "规范与来源",
+  "position": 50,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "规范与来源",
+    "description": "法规、标准、认证与专题内容的一手来源核查记录。"
+  }
+}

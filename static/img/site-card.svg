@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#102a43"/>
+  <g opacity=".12" stroke="#fff">
+    <path d="M0 70h1200M0 140h1200M0 210h1200M0 280h1200M0 350h1200M0 420h1200M0 490h1200M0 560h1200"/>
+    <path d="M80 0v630M160 0v630M240 0v630M320 0v630M400 0v630M480 0v630M560 0v630M640 0v630M720 0v630M800 0v630M880 0v630M960 0v630M1040 0v630M1120 0v630"/>
+  </g>
+  <rect x="82" y="76" width="236" height="42" fill="#f5c451"/>
+  <text x="100" y="106" fill="#102a43" font-family="Arial, sans-serif" font-size="22" font-weight="700">业主现场手册 / 01—13</text>
+  <text x="82" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="72" font-weight="800">毛坯房装修</text>
+  <text x="82" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="72" font-weight="800">业主指南</text>
+  <rect x="82" y="405" width="780" height="6" fill="#f26b38"/>
+  <text x="82" y="470" fill="#d8e7f5" font-family="Arial, sans-serif" font-size="28">流程 · 材料 · 工艺 · 停检 · 验收 · 交付</text>
+</svg>

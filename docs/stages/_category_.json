@@ -1,0 +1,11 @@
+{
+  "label": "施工阶段详解",
+  "position": 10,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "施工阶段详解",
+    "description": "从现场保护到竣工交付，逐阶段学习材料、工艺、风险和验收方法。"
+  }
+}
